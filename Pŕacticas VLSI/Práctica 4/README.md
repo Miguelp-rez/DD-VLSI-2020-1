@@ -12,7 +12,7 @@ Morales Téllez Carlos Gamaliel
 Pérez Quiroz Miguel Ángel  
 
 ## Carta ASM
-[CartaASM](/VLSI/Prácticas\ VLSI/Práctica \ 4/carta\ asm.jpg)
+![CartaASM](./cartaASM.jpg)
 
 ## Video
 [Mira en YouTube](https://www.youtube.com/watch?v=NA0eVfWozRU)
