@@ -14,11 +14,11 @@ Pérez Quiroz Miguel Ángel
 
 ## Por trayectoria
 ### Carta ASM
-![CartaASM](./Trayectoria.png)
+![CartaASM](./Trayectoria.PNG)
 
 ## Entrada estado
 ### Carta ASM
-![CartaASM](./Entrada-estado.png)
+![CartaASM](./Entrada-estado.PNG)
 
 ## Video
 [Mira en YouTube](https://www.youtube.com/watch?v=iEQ3c4cEsdU&feature=youtu.be)
