@@ -21,6 +21,4 @@ Pérez Quiroz Miguel Ángel
 ![CartaASM](./Entrada-estado.PNG)
 
 ## Video
-[Mira en YouTube](https://youtu.be/WBJkODn1DSU)
-
 [Mira en YouTube](https://youtu.be/_E6zRUgcOAg)
