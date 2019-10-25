@@ -10,4 +10,4 @@ Morales Téllez Carlos Gamaliel
 Pérez Quiroz Miguel Ángel  
 
 ## Documento
-[Mira en YouTube](https://docs.google.com/document/d/1_fiupij04fNTTed8GX3VCZuaDdGjDJ5qLCH5_oG6Tjg/edit?usp=sharing)
+[Ver en google docs](https://docs.google.com/document/d/1_fiupij04fNTTed8GX3VCZuaDdGjDJ5qLCH5_oG6Tjg/edit?usp=sharing)
