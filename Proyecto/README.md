@@ -4,7 +4,7 @@
 ```  
 
 ## Integrantes
-Lopéz Martínez Andrés  
+López Martínez Andrés  
 Martínez Martínez Andrés  
 Morales Téllez Carlos Gamaliel  
 Pérez Quiroz Miguel Ángel  
